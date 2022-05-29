@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YmUIQC4PBWOExe6ZMm43D51fdlAqre+yHB7RNfo4Tp0tvV8ZN/NmWCCdVIIFfsTK1uBt9Vd1WbhyUJ7k1VZz0w==",
+  "success": true,
+  "projectFilePath": "/home/anouar/Desktop/TicTacToe/TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "/home/anouar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,2 +1,2 @@
 # TicTacToe
-Building TicTacToe game with C#
+Building a simple TicTacToe game with C#

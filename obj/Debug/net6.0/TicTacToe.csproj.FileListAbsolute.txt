@@ -1,0 +1,15 @@
+/home/anouar/Desktop/TicTacToe/bin/Debug/net6.0/TicTacToe
+/home/anouar/Desktop/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/home/anouar/Desktop/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/home/anouar/Desktop/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/home/anouar/Desktop/TicTacToe/bin/Debug/net6.0/ref/TicTacToe.dll
+/home/anouar/Desktop/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/home/anouar/Desktop/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/home/anouar/Desktop/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/anouar/Desktop/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/home/anouar/Desktop/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/home/anouar/Desktop/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/home/anouar/Desktop/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/home/anouar/Desktop/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll
+/home/anouar/Desktop/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/home/anouar/Desktop/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
